@@ -1,0 +1,6 @@
+opencv-python
+streamlit
+google.generativeai
+spacy
+tensorflow
+python-dotenv
